@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cup0coffee
+- 👋 Hi, I’m Sean
 
 <!---
 cup0coffee/cup0coffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
