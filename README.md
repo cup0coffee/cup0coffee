@@ -1,13 +1,4 @@
 - 👋 Hi, I’m @cup0coffee
-     )  (
-     (   ) )
-      ) ( (
-    _______)_
- .-'---------|  
-( C|/\/\/\/\/|
- '-./\/\/\/\/|
-   '_________'
-    '-------'
 
 <!---
 cup0coffee/cup0coffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
