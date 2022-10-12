@@ -1,4 +1,4 @@
-👋 Hi, I’m Sean
+👋 Hi, I’m not Char.
 
 🖥️ I'm currently working on a software testing project for a software quality assurance course at school.
 
