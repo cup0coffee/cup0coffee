@@ -1,7 +1,5 @@
 👋 Hi, I’m Sean.
 
-🖥️ I'm currently working on a software testing project for a software quality assurance course at school.
-
 🧪 Developed & tested code at my last software developer position.
 
 <!---
